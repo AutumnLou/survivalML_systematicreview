@@ -1,6 +1,10 @@
 # survivalML_systematicreview
 Database of machine learning methods used in cancer survival analysis, compiled from systematic review (196 studies)
 
+# DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17191829.svg)](https://doi.org/10.5281/zenodo.17191829)
+
+
 ## Available Datasets
 
 This repository contains two main datasets compiled from our systematic review.
